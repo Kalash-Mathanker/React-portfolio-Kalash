@@ -40,7 +40,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Pune",
-  phoneNo: "8349832042",
-  email: "kalashmathankar@gmail.com",
+  address: "India",
+  linkedInUrl: "https://www.linkedin.com/in/kalashmathanker",
 };
